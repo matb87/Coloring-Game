@@ -13,4 +13,7 @@ Game Rules:
 
 Setup:
 * Please install termcolor package
-* Run main.py to start playing
+* Run **main.py** to start playing
+
+* You can change the list of colors, by adding or remove a color in colors dictionary in entities\color.py file
+* You can change the board size by sending desirable size in the game settings section (game_board_size, game_max_moves) in main.py  
